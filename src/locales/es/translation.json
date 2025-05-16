@@ -1,0 +1,449 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "booking": "Reserva Online",
+    "fitness": "Gimnasio",
+    "shop": "Tienda",
+    "events": "Eventos",
+    "pricing": "Precios",
+    "hours": "Horario",
+    "contact": "Contacto",
+    "about": "Sobre Nosotros",
+    "openMenu": "Abrir Menú",
+    "closeMenu": "Cerrar Menú"
+  },
+  "home": {
+    "welcome": {
+      "title": "Bienvenido a Airport Squash",
+      "description": "Descubre squash de primera clase en un ambiente moderno y acogedor"
+    },
+    "features": {
+      "book": {
+        "title": "Reserva Online",
+        "description": "Reserva tu pista cómodamente online"
+      },
+      "prices": {
+        "title": "Precios Justos",
+        "description": "Precios transparentes para todas las membresías"
+      },
+      "hours": {
+        "title": "Horario",
+        "description": "Horas flexibles para tu entrenamiento"
+      },
+      "location": {
+        "title": "Ubicación",
+        "description": "Situado en el centro y de fácil acceso"
+      }
+    },
+    "promotion": {
+      "title": "Tu Experiencia de Squash",
+      "description": "Benefíciate de nuestras instalaciones de primera clase",
+      "point1": "Pistas Profesionales",
+      "point2": "Entrenadores Experimentados",
+      "point3": "Equipamiento Moderno",
+      "cta": "Reservar Ahora",
+      "imageAlt": "Pista de Squash"
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "description": "Aprende más sobre Airport Squash",
+    "history": {
+      "title": "Nuestra Historia",
+      "paragraph1": "Desde 2015, somos tu socio de confianza para Squash y Fitness.",
+      "paragraph2": "Con equipamiento de última generación y entrenadores experimentados, ofrecemos la mejor experiencia de squash.",
+      "paragraph3": "Nuestra comunidad crece constantemente y estamos orgullosos de conectar personas a través del deporte.",
+      "imageAlt": "Historia de Airport Squash",
+      "since": "Fundado"
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "subtitle": "Lo que nos impulsa",
+      "quality": {
+        "title": "Calidad",
+        "description": "Los más altos estándares en todas las áreas"
+      },
+      "community": {
+        "title": "Comunidad",
+        "description": "Un lugar de encuentro y deporte"
+      },
+      "excellence": {
+        "title": "Excelencia",
+        "description": "Esfuerzo por la mejora continua"
+      },
+      "safety": {
+        "title": "Seguridad",
+        "description": "Tu salud es nuestra máxima prioridad"
+      }
+    },
+    "facilities": {
+      "title": "Nuestras Instalaciones",
+      "subtitle": "Modernas y equipadas profesionalmente",
+      "item1": "Pistas Profesionales de Squash",
+      "item2": "Área de Gimnasio Moderna",
+      "item3": "Vestuarios y Duchas",
+      "item4": "Área de Relajación"
+    },
+    "join": {
+      "title": "Únete a nuestra Comunidad",
+      "description": "Experimenta el squash al más alto nivel",
+      "bookNow": "Reservar Ahora",
+      "contactUs": "Contacta con Nosotros"
+    }
+  },
+  "booking": {
+    "title": "Reserva Online",
+    "description": "Reserva tu pista fácil y rápidamente",
+    "bookingSystem": "Sistema de Reserva",
+    "bookingInstructions": "Sigue estos sencillos pasos para reservar tu pista",
+    "howToBook": {
+      "title": "Cómo Funciona",
+      "step1": "Elige fecha y hora",
+      "step2": "Selecciona una pista disponible",
+      "step3": "Introduce tus datos",
+      "step4": "Confirma tu reserva"
+    },
+    "openBookingSystem": "Ir al sistema de reserva",
+    "openInNewTab": "Se abre en una nueva pestaña",
+    "rules": {
+      "title": "Normas de Reserva",
+      "courtRules": {
+        "title": "Normas de la Pista",
+        "rule1": "Zapatillas de interior limpias obligatorias",
+        "rule2": "Tiempo máximo de juego: 45 minutos",
+        "rule3": "Mínimo 2 jugadores por pista",
+        "rule4": "Llegar a tiempo"
+      },
+      "cancellation": {
+        "title": "Cancelación",
+        "rule1": "Cancelación gratuita hasta 24 horas antes",
+        "rule2": "Cancelación tardía: 50% de cargo",
+        "rule3": "No presentarse: Cargo completo"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Precios y Membresías",
+    "description": "Precios transparentes para cada necesidad",
+    "memberships": {
+      "title": "Nuestras Membresías",
+      "subtitle": "Elige la opción adecuada",
+      "standard": {
+        "title": "No miembro",
+        "period": "persona",
+        "feature1": "Acceso a todas las pistas"
+      },
+      "premium": {
+        "title": "Mensual",
+        "period": "Mes",
+        "feature1": "Acceso Ilimitado",
+        "feature2": "Equipamiento Incluido"
+      },
+      "student": {
+        "title": "Membresía con Urban Sports Club",
+        "period": "Mes",
+        "feature1": "Membresía S: 4 visitas al mes, solo para entrenamiento de fitness, no incluye sesiones de squash",
+        "feature2": "Membresía M: 8 visitas al mes, hasta 4 sesiones de squash de 45 minutos",
+        "feature3": "Membresías L y XL: 8 visitas al mes, hasta 8 sesiones de squash de 45 minutos"
+      }
+    },
+    "equipment": {
+      "title": "Equipamiento y Extras",
+      "item": "Artículo",
+      "price": "Precio",
+      "racket": "Alquiler de Raqueta",
+      "balls": "Pelotas",
+      "shoes": "Alquiler de Zapatillas",
+      "towel": "Toalla",
+      "shower": "Ducha"
+    }
+  },
+  "hours": {
+    "title": "Horario",
+    "description": "Cuándo puedes visitarnos",
+    "regularHours": "Horario Regular",
+    "monday": "Lunes",
+    "tuesday": "Martes",
+    "wednesday": "Miércoles",
+    "thursday": "Jueves",
+    "friday": "Viernes",
+    "saturday": "Sábado",
+    "sunday": "Domingo",
+    "holidayHours": {
+      "title": "Festivos",
+      "description": "Cerramos los siguientes festivos",
+      "date": "Fecha",
+      "holiday": "Festivo",
+      "hours": "Horario",
+      "closed": "Cerrado"
+    },
+    "holidays": {
+      "newYear": "Día de Año Nuevo",
+      "goodFriday": "Viernes Santo",
+      "easterMonday": "Lunes de Pascua",
+      "laborDay": "Día del Trabajo",
+      "germanUnity": "Día de la Unidad Alemana",
+      "christmas": "Primer Día de Navidad",
+      "boxingDay": "Segundo Día de Navidad"
+    },
+    "notice": {
+      "title": "Aviso Importante",
+      "description1": "Última entrada 45 minutos antes del cierre",
+      "description2": "Horario sujeto a cambios"
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "description": "Estamos aquí para ti",
+    "getInTouch": "Ponte en Contacto",
+    "form": {
+      "title": "Enviar un Mensaje",
+      "name": "Nombre",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "send": "Enviar",
+      "sending": "Enviando...",
+      "required": "Campos obligatorios",
+      "selectSubject": "Seleccionar asunto",
+      "subjects": {
+        "booking": "Reserva",
+        "membership": "Membresía",
+        "facilities": "Instalaciones",
+        "other": "Otro"
+      },
+      "success": {
+        "title": "¡Mensaje Enviado!",
+        "message": "Gracias por tu mensaje. Nos pondremos en contacto contigo en breve.",
+        "button": "Nuevo Mensaje"
+      },
+      "errors": {
+        "name": "Por favor, introduce tu nombre",
+        "email": "Por favor, introduce tu dirección de correo electrónico",
+        "emailInvalid": "Por favor, introduce una dirección de correo electrónico válida",
+        "subject": "Por favor, selecciona un asunto",
+        "message": "Por favor, introduce un mensaje",
+        "messageTooShort": "Tu mensaje es demasiado corto"
+      }
+    },
+    "address": {
+      "title": "Dirección"
+    },
+    "phone": {
+      "title": "Teléfono"
+    },
+    "email": {
+      "title": "Correo Electrónico"
+    },
+    "hours": {
+      "title": "Horario",
+      "weekdays": "Lun-Vie: 10:00 - 24:00",
+      "weekend": "Sáb-Dom: (SA)10:00 - 17:00  (DOM) 10:00 - 21:00"
+    },
+    "directions": {
+      "title": "Cómo Llegar",
+      "description": "Así nos encuentras",
+      "public": "En transporte público: Metro U7 hasta Kurt-Schumacher-Platz",
+      "car": "En coche: Aparcamiento gratuito disponible"
+    },
+    "map": "Mapa de Ubicación"
+  },
+  "events": {
+    "title": "Eventos y Comunidad",
+    "description": "Activos juntos",
+    "joinCommunity": "Únete a nuestra Comunidad",
+    "communityDescription": "En Airport Squash & Fitness, creemos en la construcción de una comunidad fuerte e inclusiva a través del deporte. Nuestros eventos regulares son aptos para todas las edades y niveles de habilidad, ofreciendo oportunidades para aprender, conectar y jugar squash juntos.",
+    "eventsList": {
+      "social": {
+        "title": "Squash Juniors – Domingos",
+        "description": "¡Ya sea que seas un principiante o ya hayas estado en la cancha, nuestro entrenamiento para jóvenes involucra a niños de todos los niveles y grupos de edad.",
+        "schedule": "30 de julio de 2023"
+      },
+      "youth": {
+        "title": "Fiesta social nocturna del aeropuerto de squash",
+        "description": "Sesiones de entrenamiento especiales para jugadores jóvenes de 8 a 16 años. Entrenamiento profesional en un ambiente divertido y de apoyo. Se proporciona equipamiento para principiantes.",
+        "schedule": "27 de julio de 2023"
+      },
+      "inclusive": {
+        "title": "Estamos buscando un nuevo miembro del equipo.",
+        "description": "¡Sea parte del equipo! ¿Tienes más de 18 años, experiencia como bartender y dispones de 15 horas semanales libres? ¡Aplica ya para aprovechar tu oportunidad.",
+        "schedule": "27 de febrero de 2023"
+      },
+      "friday": {
+        "title": "Entrenamiento en aeropuertos",
+        "description": "",
+        "schedule": "27 de julio de 2020"
+      }
+    },
+    "getInvolved": {
+      "title": "Participa",
+      "description": "¿Quieres participar en nuestros eventos comunitarios o saber más sobre nuestros programas? Contáctanos o visítanos durante uno de nuestros eventos - ¡esperamos darte la bienvenida a nuestra familia de squash!",
+      "contactButton": "Contacta con Nosotros",
+      "bookButton": "Reservar Pista"
+    }
+  },
+  "shop": {
+    "title": "Tienda Online",
+    "description": "Descubre nuestra selección de equipamiento y accesorios de squash",
+    "filters": {
+      "title": "Filtros",
+      "brands": "Marcas",
+      "categories": "Categorías",
+      "priceRange": "Rango de precio",
+      "showFilters": "Mostrar filtros",
+      "search": "Buscar productos..."
+    },
+    "categories": {
+      "rackets": "Raquetas",
+      "shoes": "Zapatillas",
+      "clothing": "Ropa",
+      "accessories": "Accesorios",
+      "balls": "Pelotas"
+    },
+    "labels": {
+      "new": "Nuevo",
+      "bestSeller": "Más vendido",
+      "sale": "Oferta",
+      "addToCart": "Añadir al carrito",
+      "outOfStock": "Agotado",
+      "from": "Desde"
+    },
+    "cart": {
+      "title": "Carrito",
+      "items": "artículos",
+      "empty": "Tu carrito está vacío",
+      "checkout": "Finalizar compra"
+    }
+  },
+  "fitness": {
+    "title": "Centro de Fitness",
+    "description": "Transforma cuerpo y mente en nuestras modernas instalaciones de fitness",
+    "welcome": {
+      "title": "Bienvenido a Airport Fitness",
+      "description": "Nuestro centro de fitness ofrece una amplia gama de actividades y equipamiento para ayudarte a alcanzar tus objetivos de fitness. Ya sea que estés comenzando tu viaje de fitness o quieras llevar tu entrenamiento al siguiente nivel."
+    },
+    "activities": {
+      "general": {
+        "title": "Entrenamiento General",
+        "description": "Nuestro gimnasio completamente equipado cuenta con máquinas de cardio modernas, pesas libres y áreas dedicadas para entrenamiento de fuerza. Perfecto para principiantes y atletas experimentados.",
+        "schedule": "Lunes - Domingo: 10:00 - 22:00"
+      },
+      "kickboxing": {
+        "title": "Kickboxing",
+        "description": "Clases de kickboxing de alta intensidad que combinan técnicas de artes marciales con cardio. Mejora tu fuerza, agilidad y confianza.",
+        "schedule": "Martes y Jueves: 18:00 - 19:30"
+      },
+      "circuit": {
+        "title": "Entrenamiento en Circuito",
+        "description": "Entrenamientos grupales dinámicos que trabajan todos los grupos musculares principales. Nuestras sesiones de entrenamiento en circuito están diseñadas para aumentar la resistencia y quemar calorías.",
+        "schedule": "Lunes, Miércoles, Viernes: 17:30 - 18:30"
+      }
+    },
+    "trial": {
+      "title": "Prueba una Sesión Gratuita",
+      "description": "Experimenta nuestro centro de fitness de primera mano con una sesión de prueba gratuita. Nuestros entrenadores te ayudarán a descubrir las actividades perfectas para tus objetivos de fitness.",
+      "button": "Reservar Sesión de Prueba"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Política de Privacidad",
+      "description": "Sus datos en buenas manos",
+      "intro": "Nos tomamos en serio la protección de sus datos personales",
+      "sections": {
+        "declaration": {
+          "title": "Declaración de Privacidad",
+          "content": "Esta política de privacidad le informa sobre la naturaleza, alcance y propósito del procesamiento de datos personales dentro de nuestros servicios en línea."
+        },
+        "responsible": {
+          "title": "Entidad Responsable",
+          "content": "Airport Squash & Fitness\nRue Charles Calmette 11D\n13405 Berlin\nAlemania"
+        },
+        "collection": {
+          "title": "Recopilación de Datos",
+          "content": "Solo recopilamos y procesamos datos personales dentro del marco de las leyes de protección de datos aplicables. Esto incluye nombre, información de contacto y detalles de reserva."
+        },
+        "rights": {
+          "title": "Sus Derechos",
+          "content": "Tiene derecho a acceder, rectificar, eliminar y restringir el procesamiento de sus datos personales."
+        }
+      }
+    },
+    "terms": {
+      "title": "Términos y Condiciones",
+      "description": "Nuestros términos y condiciones",
+      "intro": "Por favor, lea estos términos y condiciones cuidadosamente",
+      "sections": {
+        "general": {
+          "title": "Términos Generales",
+          "content": "Estos términos y condiciones rigen la relación contractual entre Airport Squash & Fitness y nuestros clientes."
+        },
+        "membership": {
+          "title": "Membresía",
+          "content": "La membresía es personal e intransferible. El plazo mínimo es de 1 mes."
+        },
+        "bookings": {
+          "title": "Reservas y Cancelaciones",
+          "content": "Las reservas se pueden cancelar sin cargo hasta 24 horas antes del juego. Las cancelaciones posteriores incurren en una tarifa del 50%."
+        },
+        "rules": {
+          "title": "Reglas de la Casa",
+          "content": "Todos los miembros deben cumplir con las reglas de la casa. Estas se muestran en las instalaciones."
+        }
+      }
+    },
+    "imprint": {
+      "title": "Aviso Legal",
+      "description": "Información legal",
+      "intro": "Información según § 5 TMG",
+      "sections": {
+        "operator": {
+          "title": "Operador",
+          "content": "Airport Squash & Fitness\nRue Charles Calmette 11D\n13405 Berlin\nAlemania"
+        },
+        "contact": {
+          "title": "Contacto",
+          "content": "Teléfono: +49 (030) 32 51 26 36\nEmail: info@airport-squash.de"
+        },
+        "register": {
+          "title": "Registro Mercantil",
+          "content": "Inscrito en el Registro Mercantil.\nTribunal de Registro: Amtsgericht Berlin\nNúmero de Registro: HRB 123456"
+        },
+        "authority": {
+          "title": "Autoridad Supervisora",
+          "content": "Autoridad supervisora competente:\nBezirksamt Reinickendorf von Berlin"
+        }
+      }
+    }
+  },
+  "teams": {
+    "title": "Nuestros Equipos",
+    "description": "Conoce nuestros equipos competitivos",
+    "bundesliga": {
+      "title": "Equipo Bundesliga"
+    },
+    "table": {
+      "position": "Pos",
+      "team": "Equipo",
+      "played": "PJ",
+      "won": "G",
+      "lost": "P",
+      "setsFor": "Sets+",
+      "setsAgainst": "Sets-",
+      "points": "Puntos"
+    },
+    "schedule": {
+      "title": "Calendario Bundesliga"
+    }
+  },
+  "footer": {
+    "tagline": "Tu socio para Squash y Fitness",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos y Condiciones",
+    "imprint": "Aviso Legal"
+  }
+}
