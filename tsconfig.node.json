@@ -10,7 +10,10 @@
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
     "moduleDetection": "force",
-    "noEmit": true,
+
+    "composite": true,
+    "outDir": "./dist",         // Añade esto para cumplir los requisitos del modo composite
+    // "noEmit": true,          ❌ QUÍTALO o coméntalo como aquí
 
     /* Linting */
     "strict": true,
